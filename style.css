@@ -291,7 +291,7 @@ body{
 }
 .chat-box .outgoing .details{
   margin-left: auto;
-  max-width: calc(100% - 130px);
+  /* max-width: calc(100% - 130px); */
 }
 .outgoing .details p{
   background: #333;
